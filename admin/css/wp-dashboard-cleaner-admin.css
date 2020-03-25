@@ -1,0 +1,8 @@
+.wpdc_opt_desc{ font-style:italic;}
+.wpdc_left table tr:nth-child(2n), .wpdc_right table tr:nth-child(2n) {background: #e9e9e9;}
+.wpdc_message{ margin-bottom:10px; }
+#wpdc_form h2, #wpdc_form_other h2{ margin:10px 0;}
+.wpdc_left{ padding:10px 10px 10px 0px; width:50%; float:left;}
+.wpdc_right{ padding:10px 10px 10px 0px; width:48%; float:right;}
+.wpdc_left table, .wpdc_right table{ border-radius:10px;}
+
